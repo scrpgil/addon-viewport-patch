@@ -1,5 +1,5 @@
 {
-  "name": "@scrpgil/addon-viewport-patch",
+  "name": "addon-viewport-patch",
   "version": "3.3.0",
   "description": "Storybook addon to change the viewport size to mobile",
   "main": "dist/index.js",
